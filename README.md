@@ -1,4 +1,4 @@
-## 🧮 Projeto Tabuada
+## 🔢 Projeto Tabuada
 
 Este é um projeto simples em **HTML**, **CSS** e **JavaScript** que gera dinamicamente a tabuada de um número informado pelo usuário.
 
